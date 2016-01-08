@@ -13,9 +13,22 @@
 <v t="leo.20151228205439.2"><vh>NewHeadline</vh></v>
 <v t="leo.20151228205451.1"><vh>@button user pelican</vh></v>
 <v t="leo.20160108224234.1" a="E"><vh>以下為投影片 ------------</vh>
-<v t="leo.20160108224722.1"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160108235117.1" a="E"><vh>@path pelican</vh>
+<v t="leo.20160108235117.2"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20160108235117.3"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160108235117.4" a="E"><vh>@path content</vh>
+<v t="leo.20160108235117.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160108235117.6"><vh>@edit 40323137_cp_w11.md</vh></v>
+<v t="leo.20160108235117.7"><vh>@edit 40323137_cp_w12.md</vh></v>
+<v t="leo.20160108235117.8"><vh>@edit 40323137_cp_w13.md</vh></v>
+<v t="leo.20160108235117.9"><vh>@edit 40323137_cp_w14.md</vh></v>
+<v t="leo.20160108235117.10"><vh>@edit 40323137_cp_w15.md</vh></v>
+<v t="leo.20160108235117.11"><vh>@edit 40323137_cp_w16.md</vh></v>
+<v t="leo.20160108235117.12"><vh>@edit 40323137_cp_w18.md</vh></v>
+</v>
+</v>
 <v t="leo.20160108224234.2" a="E"><vh>@button open html</vh>
-<v t="leo.20160108224234.3" a="E"><vh>@clean cadp_w11_simplest.html</vh>
+<v t="leo.20160108224234.3"><vh>@clean cadp_w11_simplest.html</vh>
 <v t="leo.20160108224234.4"><vh>檔案說明</vh></v>
 <v t="leo.20160108224234.5" a="E"><vh>html 標註</vh>
 <v t="leo.20160108224234.6" a="E"><vh>body 標註</vh>
@@ -62,7 +75,7 @@
 </v>
 <v t="leo.20160108224234.31"><vh>@clean cadp_w13_simplest.html</vh>
 <v t="leo.20160108224234.32"><vh>檔案說明</vh></v>
-<v t="leo.20160108224234.33" a="E"><vh>html 標註</vh>
+<v t="leo.20160108224234.33"><vh>html 標註</vh>
 <v t="leo.20160108224234.34" a="E"><vh>body 標註</vh>
 <v t="leo.20160108224234.35" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160108224234.36" a="E"><vh>div class="slides"</vh>
@@ -102,7 +115,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160108224234.57" a="E"><vh>@clean cadp_w15_simplest.html</vh>
+<v t="leo.20160108224234.57"><vh>@clean cadp_w15_simplest.html</vh>
 <v t="leo.20160108224234.58"><vh>檔案說明</vh></v>
 <v t="leo.20160108224234.59"><vh>html 標註</vh>
 <v t="leo.20160108224234.60" a="E"><vh>body 標註</vh>
@@ -770,5 +783,9 @@ content: "學號: 40323137 課程: 電腦輔助設計實習A"; }&lt;/style&gt;</
 &lt;/section&gt;
 	
 </t>
+<t tx="leo.20160108235117.1"></t>
+<t tx="leo.20160108235117.2"></t>
+<t tx="leo.20160108235117.4"></t>
+<t tx="leo.20160108235117.5"></t>
 </tnodes>
 </leo_file>
