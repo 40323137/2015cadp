@@ -126,7 +126,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160108224234.70" a="E"><vh>@clean cadp_w16_simplest.html</vh>
+<v t="leo.20160108224234.70"><vh>@clean cadp_w16_simplest.html</vh>
 <v t="leo.20160108224234.71"><vh>檔案說明</vh></v>
 <v t="leo.20160108224234.72" a="E"><vh>html 標註</vh>
 <v t="leo.20160108224234.73" a="E"><vh>body 標註</vh>
@@ -147,7 +147,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109123502.1" a="E"><vh>@clean cadp_w17_simplest.html</vh>
+<v t="leo.20160109123502.1"><vh>@clean cadp_w17_simplest.html</vh>
 <v t="leo.20160109123502.2"><vh>檔案說明</vh></v>
 <v t="leo.20160109123502.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160109123502.4" a="E"><vh>body 標註</vh>
@@ -167,6 +167,17 @@
 <v t="leo.20160109123502.13"><vh>script</vh></v>
 </v>
 </v>
+</v>
+<v t="leo.20160109124448.1" a="E"><vh>@path content</vh>
+<v t="leo.20160109124448.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160109124448.3"><vh>@edit 40323137_cp_w11.md</vh></v>
+<v t="leo.20160109124448.4"><vh>@edit 40323137_cp_w12.md</vh></v>
+<v t="leo.20160109124448.5"><vh>@edit 40323137_cp_w13.md</vh></v>
+<v t="leo.20160109124448.6"><vh>@edit 40323137_cp_w14.md</vh></v>
+<v t="leo.20160109124448.7"><vh>@edit 40323137_cp_w15.md</vh></v>
+<v t="leo.20160109124448.8"><vh>@edit 40323137_cp_w16.md</vh></v>
+<v t="leo.20160109124448.9"><vh>@edit 40323137_cp_w17.md</vh></v>
+<v t="leo.20160109124448.10"><vh>@edit 40323137_cp_w18.md</vh></v>
 </v>
 </v>
 </v>
@@ -892,5 +903,7 @@ cadp w12 講課內容投影片
     &lt;/section&gt;
 
 &lt;/section&gt;</t>
+<t tx="leo.20160109124448.1"></t>
+<t tx="leo.20160109124448.2"></t>
 </tnodes>
 </leo_file>
