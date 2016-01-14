@@ -39,7 +39,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160108224234.16"><vh>@clean cadp_w12_simplest.html</vh>
+<v t="leo.20160108224234.16" a="E"><vh>@clean cadp_w12_simplest.html</vh>
 <v t="leo.20160108224234.17"><vh>檔案說明</vh></v>
 <v t="leo.20160108224234.18" a="E"><vh>html 標註</vh>
 <v t="leo.20160108224234.19" a="E"><vh>body 標註</vh>
@@ -147,7 +147,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109123502.1"><vh>@clean cadp_w17_simplest.html</vh>
+<v t="leo.20160109123502.1" a="E"><vh>@clean cadp_w17_simplest.html</vh>
 <v t="leo.20160109123502.2"><vh>檔案說明</vh></v>
 <v t="leo.20160109123502.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160109123502.4" a="E"><vh>body 標註</vh>
