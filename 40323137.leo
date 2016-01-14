@@ -13,7 +13,7 @@
 <v t="leo.20151228205439.2"><vh>NewHeadline</vh></v>
 <v t="leo.20151228205451.1"><vh>@button user pelican</vh></v>
 <v t="leo.20160108224234.1" a="E"><vh>以下為投影片 ------------</vh>
-<v t="leo.20160108235117.1" a="E"><vh>@path pelican</vh>
+<v t="leo.20160108235117.1"><vh>@path pelican</vh>
 <v t="leo.20160108235117.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20160108235117.3"><vh>@edit publishconf.py</vh></v>
 </v>
@@ -39,7 +39,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160108224234.16" a="E"><vh>@clean cadp_w12_simplest.html</vh>
+<v t="leo.20160108224234.16"><vh>@clean cadp_w12_simplest.html</vh>
 <v t="leo.20160108224234.17"><vh>檔案說明</vh></v>
 <v t="leo.20160108224234.18" a="E"><vh>html 標註</vh>
 <v t="leo.20160108224234.19" a="E"><vh>body 標註</vh>
@@ -147,7 +147,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109123502.1" a="E"><vh>@clean cadp_w17_simplest.html</vh>
+<v t="leo.20160109123502.1"><vh>@clean cadp_w17_simplest.html</vh>
 <v t="leo.20160109123502.2"><vh>檔案說明</vh></v>
 <v t="leo.20160109123502.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160109123502.4" a="E"><vh>body 標註</vh>
